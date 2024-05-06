@@ -1,0 +1,49 @@
+/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5dc; /* Soft beige background */
+  }
+  
+  h1 {
+    color: #663300; /* Earthy brown text */
+    background-color: #fff; /* White background */
+    text-align: center;
+    padding: 1em;
+    border-bottom: 1px solid #964b00; /* Warm brown border */
+  }
+  
+  main {
+    display: flex;
+    height: 100vh;
+
+  }
+  
+  /* Component Styles */
+  
+  #list {
+    background-color: #8b9467; /* Earthy terracotta background */
+    border: 1px solid #964b00; /* Warm brown border */
+    flex: 2;
+
+  }
+  
+  #form {
+    background-color: #f2c464; /* Vibrant orange background */
+    border: 1px solid #964b00; /* Warm brown border */
+    flex: 2;
+
+  }
+  
+  /* Additional Styles */
+  
+  a {
+    text-decoration: none;
+    color: #663300; /* Earthy brown text */
+  }
+  
+  a:hover {
+    color: #964b00; /* Warm brown text on hover */
+  }
