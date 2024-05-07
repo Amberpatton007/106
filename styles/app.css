@@ -6,6 +6,11 @@ body {
     padding: 0;
     background-color: #f5f5dc; /* Soft beige background */
   }
+
+  .task{
+    margin:10px 20px;
+    border: 2px solid lightcoral
+  }
   
   h1 {
     color: #663300; /* Earthy brown text */
